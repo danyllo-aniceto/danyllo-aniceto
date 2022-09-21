@@ -25,6 +25,6 @@
   <a href = "danyllo.aniceto.carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.facebook.com/danyllo.aniceto.77"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">  </a>
  
-  ![Snake animation](https://github.com/rafaballerini/danyllo-aniceto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danyllo-aniceto/danyllo-aniceto/blob/main/github-contribution-grid-snake.svg)
  
 </div>
